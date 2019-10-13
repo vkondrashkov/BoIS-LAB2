@@ -4,4 +4,7 @@
    <FileRef
       location = "group:lab2/lab2.xcodeproj">
    </FileRef>
+   <FileRef
+      location = "group:CaesarEncoder/CaesarEncoder.xcodeproj">
+   </FileRef>
 </Workspace>
